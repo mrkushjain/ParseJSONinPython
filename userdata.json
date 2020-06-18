@@ -1,0 +1,12 @@
+[
+	{
+		"UserId":1,
+		"GroupId":2,
+		"isAdd":true
+	},
+	{
+		"UserId":2,
+		"GroupId":2,
+		"isAdd":true
+	}
+]
